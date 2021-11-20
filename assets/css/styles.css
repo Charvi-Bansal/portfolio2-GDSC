@@ -323,6 +323,11 @@ img{
   transform: scale(1.1);
 }
 
+/*BLOGS*/
+.blog_desc{
+  margin: 20px;
+}
+
 /*CONTACT*/
 .contact__input{
   width: 100%;
